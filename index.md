@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/kevinduh/nlp-course/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to NLP!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<strong>601.465/665 - Fall 2019</strong>
+* Instructor: [Kevin Duh](http://cs.jhu.edu/~kevinduh/)
+* TA: x, y; CA: x, y, z
+* Class: Room, Time
+* Office Hours: Room, Time
+* Contact: on Piazza? 
 
-### Markdown
+### Annoucements
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Course Description
 
-- Bulleted
-- List
+This course is an in-depth overview of techniques for processing human language. How should linguistic structure and meaning be represented? What algorithms can recover them from text? And crucially, how can we build statistical models to choose among the many legal answers? The course covers methods for trees (parsing and semantic interpretation), sequences (finite-state transduction such as morphology), and words (sense and phrase induction). There are a number of structured but challenging programming assignments. (Prerequisite: 600/601.226 data structures)
 
-1. Numbered
-2. List
+Textbook: [Jurafsky & Martin, Speech and Language Processing, 2nd ed.](http://www.cs.colorado.edu/~martin/slp2.html) (P98.J87 2009 in Science Ref section on C-Level) 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Expectations and Policies
 
-### Jekyll Themes
+Natural Language Processing (NLP) is an exciting field! This course is designed to introduce you to some of the problems and solutions of NLP, and their relation to linguistics and statistics. You need to know how to program and use common data structures. At the end, we hope that you will acquire a fascination for the intricacies of human language, and feel ownership over some of NLP's core formal and statistical techniques, to the extent that you can begin to understand research papers in the field.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinduh/nlp-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+| ------:| -----:|
+| Grading | N homework assignments 50%, participation 5%, midterm 15%, final 30%  |
+| Late homework policy | It's important to get homeworks done on time so that you can follow the subsequent lectures. We understand that emergencies do occur, so you are allowed up to 10 late days throughout the term. They are only intended to cover situations where you would ordinarily ask for an extension. Rather than ask me, just use a late day: I don't want to be in the position of deciding which excuses are worthy and whose aren't. If you run out of late days, we'll have to give you zeroes. But it is still to your advantage to turn in all homeworks to get feedback. | 
+| Readings | Readings are announced on the course web site for each module. Students are expected to read the material before or after class. |
+| Honesty | [CS integrity code](http://cs.jhu.edu/academic-integrity-code/), [JHU undergraduate policies](https://studentaffairs.jhu.edu/policies-guidelines/undergrad-ethics/), [JHU graduate policies](http://e-catalog.jhu.edu/grad-students/graduate-specific-policies/) |
+| Disabilities | If you need accommodations for a disability, obtain a letter from [Student Disability Services](mailto:studentdisabilityservices@jhu.edu), 385 Garland, (410) 516-4720. |
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Acknowledgments
+
+This course is modeled after [Jason Eisner's NLP course](http://www.cs.jhu.edu/~jason/465/) and heavily borrows its materials. 
