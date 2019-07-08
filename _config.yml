@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: NLP
 description: Natural Language Processing course at Johns Hopkins (601.465/665)
+baseurl: /nlp-course
