@@ -29,7 +29,7 @@ Natural Language Processing (NLP) is an exciting field! This course is designed 
 
 
 | ------:| -----:|
-| Grading | N homework assignments 50%, participation 5%, midterm 15%, final 30%  |
+| Grading | 6 homework assignments 60%, participation 5%, midterm 15%, final 20%  |
 | Late homework policy | It's important to get homeworks done on time so that you can follow the subsequent lectures. We understand that emergencies do occur, so you are allowed up to 10 late days throughout the term. They are only intended to cover situations where you would ordinarily ask for an extension. Rather than ask me, just use a late day: I don't want to be in the position of deciding which excuses are worthy and whose aren't. If you run out of late days, we'll have to give you zeroes. But it is still to your advantage to turn in all homeworks to get feedback. | 
 | Readings | Readings are announced on the course web site for each module. Students are expected to read the material before or after class. |
 | Honesty | [CS integrity code](http://cs.jhu.edu/academic-integrity-code/), [JHU undergraduate policies](https://studentaffairs.jhu.edu/policies-guidelines/undergrad-ethics/), [JHU graduate policies](http://e-catalog.jhu.edu/grad-students/graduate-specific-policies/) |
