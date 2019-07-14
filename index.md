@@ -9,7 +9,7 @@ layout: default
 * TA: x, y; CA: x, y, z
 * Class: Room, Time
 * Office Hours: Room, Time
-* Contact: on Piazza? 
+* Contact: [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
 
