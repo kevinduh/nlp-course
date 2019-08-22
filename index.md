@@ -5,11 +5,11 @@ layout: default
 ## Welcome to NLP!
 
 <strong>601.465/665 - Fall 2019</strong>
-* Instructor: [Kevin Duh](http://cs.jhu.edu/~kevinduh/)
+* Instructor: [Kevin Duh](http://cs.jhu.edu/~kevinduh/) (sounds like “dew”)
 * TA: x, y; CA: x, y, z
 * Class: Room, Time
 * Office Hours: Room, Time
-* Contact: on Piazza? 
+* Contact: [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
 
