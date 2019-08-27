@@ -5,12 +5,12 @@ layout: default
 ## Welcome to NLP!
 
 <strong>601.465/665 - Fall 2019</strong>
-* Instructor: [Kevin Duh](http://cs.jhu.edu/~kevinduh/) (sounds like “dew”)
-* TA: [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
-* CA: TBD
-* Class: Shaffer 301, 11:00-11:50AM
-* Office Hours: TBD (Room, Time)
-* Contact: [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
+* **Instructor:** [Kevin Duh](http://cs.jhu.edu/~kevinduh/) (sounds like “dew”)
+* **TA:** [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
+* **CA:** TBD
+* **Class:** Shaffer 301, 11:00-11:50AM
+* **Office Hours:** Arya(Mon, 1000-1100), Suzanna(Thur, 1845-2000) @conference/lift area outside Hackerman 321
+* **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
 
