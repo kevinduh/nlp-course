@@ -1,6 +1,6 @@
 ## Assignments
 
-* HW1: Designing grammars, due xxx
+* HW1: [Designing grammars](assets/assignments/assignment1.pdf), due 9th September 11am
 * HW2: Probability and Vector, due xxx
 * HW3: Language Model
 * HW4: Parsing
