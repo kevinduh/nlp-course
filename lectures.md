@@ -4,7 +4,7 @@
 | Dates     | Module                | Main Topics      | Readings |
 | :-------- | :-------------------- | :--------------- | :-------- |
 | 8/29, 8/30, 9/4 | 1: Introduction  | Applications, Modeling grammaticality (slides: [1](assets/lectures/01-Intro.pdf), [2](assets/lectures/01-Grammaticality.pdf), [3](assets/lectures/01-EnglishGrammar.pdf)) | J&M chapter [1](http://www.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf), 5.1-5.2, 12.1-12.2 |
-| 9/6, 9/9, 9/11 | 2: Language models | N-grams, probability, smoothing | J&M chapter 4.1-4.7 |
+| 9/6, 9/9, 9/11 | 2: Language models | N-grams, probability, smoothing (lecture notes: [1](assets/lectures/02-lm.pdf)) | J&M chapter 4.1-4.7 |
 | 9/13, 9/16, 9/18 | 3: Text classification | Machine learning experiment setup, log-linear models | |
 | 9/20, 9/23, 9/25 | 4: Linguistics 101 | Properties of human languages | J&M chapter 7.1-7.3, 12.3-12.7 |
 | 9/27, 9/30, 10/2, 10/4 | 5: Tree Parsing | Constituency and Dependency trees, CKY algorithm, Eisner algorithm, Viterbi algorithm | J&M chapter 13.1-13.4, 14.1-14.7| 
