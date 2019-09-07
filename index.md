@@ -13,6 +13,7 @@ layout: default
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
+* 9/7: Module 2 lecture notes updated.
 * 9/6: Module 2 lecture notes are posted.
 * 8/29: Welcome to the class! Module 1 slides and Homework 1 are posted.
 
