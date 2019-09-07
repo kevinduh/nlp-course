@@ -7,12 +7,20 @@ layout: default
 <strong>601.465/665 - Fall 2019</strong>
 * **Instructor:** [Kevin Duh](http://cs.jhu.edu/~kevinduh/) (sounds like “dew”)
 * **TA:** [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
-* **CA:** TBD
+* **CA:** Xiang Li (Lisa), Coleman Haley, Devin Hill, Craig Guo
 * **Class:** Shaffer 301, 11:00-11:50AM
-* **Office Hours:** Arya(Mon, 1000-1100), Suzanna(Thur, 1845-2000) @conference/lift area outside Hackerman 321
+* **Office Hours (NEW!):** @conference/lift area outside Hackerman 321
+  * Arya (Mon, 1000-1100)
+  * Craig (Tue, 1330-1430) 
+  * Lisa (Wed, 1500-1600)
+  * Suzanna (Thur, 1845-2000)
+  * Devin (Fri, 1300-1400)
+  * Coleman (Fri, 1600-1700) 
+
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
+* 9/7: Homework 2 is posted.
 * 9/6: Module 2 lecture notes are posted.
 * 8/29: Welcome to the class! Module 1 slides and Homework 1 are posted.
 
