@@ -20,6 +20,7 @@ layout: default
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
+* 9/12: Module 3 lecture notes posted.
 * 9/9: Module 2 lecture notes updated.
 * 9/8: Homework 2 updated - check your version: 6 qn total including extra credit.
 * 9/7: Homework 2 is posted.
