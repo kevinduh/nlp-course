@@ -6,10 +6,10 @@
 | 8/29, 8/30, 9/4 | 1: Introduction  | Applications, Modeling grammaticality (slides: [1](assets/lectures/01-Intro.pdf), [2](assets/lectures/01-Grammaticality.pdf), [3](assets/lectures/01-EnglishGrammar.pdf)) | J&M chapter [1](http://www.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf), 5.1-5.2, 12.1-12.2 |
 | 9/6, 9/9, 9/11 | 2: Language models | N-grams, probability, smoothing (lecture notes: [1](assets/lectures/02-lm.pdf)) | J&M chapter 4.1-4.7 |
 | 9/13, 9/16, 9/18 | 3: Text classification | Machine learning experiment setup, log-linear models (slides: [1](assets/lectures/03-Loglinear.pdf), [2](assets/lectures/03-MachineLearning.pdf)), [interactive visualization](http://www.cs.jhu.edu/~jason/465/hw-prob/loglin/#1) | [Dan Klein's tutorial](https://people.eecs.berkeley.edu/~klein/papers/maxent-tutorial-slides.pdf)|
-| 9/20, 9/23, 9/25 | 4: Linguistics 101 | Properties of human languages | J&M chapter 7.1-7.3, 12.3-12.7 |
-| 9/27, 9/30, 10/2, 10/4 | 5: Tree Parsing | Constituency and Dependency trees, CKY algorithm, Eisner algorithm, Viterbi algorithm | J&M chapter 13.1-13.4, 14.1-14.7| 
+| 9/20, 9/23, 9/25 | 4: Linguistics 101 | Properties of human languages (slides: [1](assets/lectures/04-Linguistics101.pdf), [2](assets/lectures/04-WorldLanguages.pdf)) | J&M chapter 7.1-7.3, 12.3-12.7 |
+| 9/27, 9/30, 10/2, 10/4 | 5: Tree Parsing | Constituency and Dependency trees, CKY algorithm, Eisner algorithm, Dynamic programming | J&M chapter 13.1-13.4, 14.1-14.7| 
 | 10/7, 10/9, 10/11 | 6: Neural Networks | MLP/RNN, Word Embeddings, Seq2Seq |
-| 10/14 | Research Talk | Guess Lecture by Pamela Shapiro: Word Embeddings for Morphologically-rich languages | 
+| 10/14 | Research Talk | Guest Lecture by Pamela Shapiro: Word Embeddings for Morphologically-rich languages | 
 | 10/16 | Midterm Exam| | |
 | 10/21 | Research Talk | Guest Lecture by Zach Wood-Doughty: NLP for Social Media |
 | 10/23, 10/25, 10/28, 11/1 | 7: Sequence Tagging | Hidden Markov Models, Viterbi algorithm, EM algorithm | J&M chapter 5.5, 6.1-6.5|
