@@ -9,7 +9,7 @@ layout: default
 * **TA:** [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
 * **CA:** Xiang Li (Lisa), Coleman Haley, Devin Hill, Craig Guo
 * **Class:** Shaffer 301, 11:00-11:50AM
-* **Office Hours (NEW!):** @conference/lift area outside Hackerman 321
+* **Office Hours:** @conference/lift area outside Hackerman 321
   * Arya (Mon, 1000-1100)
   * Craig (Tue, 1330-1430) 
   * Lisa (Wed, 1500-1600)
@@ -20,6 +20,7 @@ layout: default
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
+* 10/6: Homework 4 is posted.
 * 10/2: Module 5 lecture slides updated (fixed typos).
 * 9/24: Note: final exam is scheduled for Thursday, December 19, 9 AM-12 PM
 * 9/23: Module 5 lecture slides posted.
