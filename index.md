@@ -5,7 +5,7 @@ layout: default
 ## Welcome to NLP!
 
 <strong>601.465/665 - Fall 2019</strong>
-* **Instructor:** [Kevin Duh](http://cs.jhu.edu/~kevinduh/) (sounds like “dew”)
+* **Instructor:** [Kevin Duh](http://cs.jhu.edu/~kevinduh/)
 * **TA:** [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
 * **CA:** Xiang Li (Lisa), Coleman Haley, Devin Hill, Craig Guo
 * **Class:** Shaffer 301, 11:00-11:50AM
