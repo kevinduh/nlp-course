@@ -12,7 +12,7 @@
 | 10/14 | Research Talk | Guest Lecture by Pamela Shapiro: Word Embeddings for Morphologically-rich languages | 
 | 10/16 | Midterm Exam| | |
 | 10/21 | Research Talk | Guest Lecture by Zach Wood-Doughty: NLP for Social Media |
-| 10/23, 10/25, 10/28 | 7: Sequence Tagging | Hidden Markov Models, Viterbi algorithm, EM algorithm | J&M chapter 5.5, 6.1-6.5|
+| 10/23, 10/25, 10/28 | 7: Sequence Tagging | Hidden Markov Models, Viterbi algorithm, EM algorithm (slides: [1](assets/lectures/07-HMM.pdf)) | J&M 3rd ed. <a href="https://web.stanford.edu/~jurafsky/slp3/A.pdf"> chapter</a> |
 | 10/30* | Research Talk | Guest Lecture by Dingquan Wang: Dependency Parsing | |
 | 11/1, 11/4 | 8: Topic Models | Probabilistic Latent Semantic Indexing, Latent Dirichlet Allocation, Topic Model Extensions (Polylingual, Dynamic, Author-recipient, Labelled, Gaussian) - Lecture by Suzanna Sia| Probabilistic Topic Models [ACM Review](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)|
 | 11/8 | Research Talk | Guest Lecture by Tom Lippincott: NLP for Digital Humanities | |

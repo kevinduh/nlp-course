@@ -20,6 +20,7 @@ layout: default
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
 
 ### Annoucements
+* 10/22: Module 7 lecture slides posted.
 * 10/6: Homework 4 is posted.
 * 10/2: Module 5 lecture slides updated (fixed typos).
 * 9/24: Note: final exam is scheduled for Thursday, December 19, 9 AM-12 PM
