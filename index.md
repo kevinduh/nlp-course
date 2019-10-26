@@ -41,7 +41,7 @@ This course is an in-depth overview of techniques for processing human language.
 
 Textbook: [Jurafsky & Martin, Speech and Language Processing, 2nd ed.](http://www.cs.colorado.edu/~martin/slp2.html) (P98.J87 2009 in Science Ref section on C-Level) 
 
-
+[Syllabus](assets/Syllabus.pdf)
 
 ### Expectations and Policies
 
