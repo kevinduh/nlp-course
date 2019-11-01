@@ -13,7 +13,7 @@
 | 10/16 | Midterm Exam| | |
 | 10/21 | Research Talk | Guest Lecture by Zach Wood-Doughty: NLP for Social Media |
 | 10/23, 10/25, 10/28 | 7: Sequence Tagging | Hidden Markov Models, Viterbi algorithm, EM algorithm (slides: [1](assets/lectures/07-HMM.pdf); exercise: [1](assets/exercises/07-Exercise-HMM.pdf); Jason Eisner's [Excel practice](http://www.cs.jhu.edu/~jason/papers/#eisner-2002-tnlp): [1](assets/exercises/eisner-hmm.xls), [2](assets/exercises/eisner-hmm-viterbi.xls)) | J&M 3rd ed. <a href="https://web.stanford.edu/~jurafsky/slp3/A.pdf"> chapter</a> |
-| 10/30* | Research Talk | Guest Lecture by Dingquan Wang: Dependency Parsing | |
+| 10/30* | Research Talk | Guest Lecture by Dingquan Wang: [Synthetic Data made to order: the case for Dependency Parsing](assets/lectures/guestlecture-dingquanwang.pdf) | |
 | 11/1, 11/4 | 8: Topic Models | Probabilistic Latent Semantic Indexing, Latent Dirichlet Allocation, Topic Model Extensions (Polylingual, Dynamic, Author-recipient, Labelled, Gaussian) - Lecture by Suzanna Sia| Probabilistic Topic Models [ACM Review](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)|
 | 11/8 | Research Talk | Guest Lecture by Tom Lippincott: NLP for Digital Humanities | |
 | 11/6, 11/11, 11/13 | 9: Finite State Transducers | Semirings, FST Applications| J&M chapter 2, 3.1-3.7|
