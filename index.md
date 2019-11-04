@@ -5,10 +5,73 @@ layout: default
 ## Welcome to NLP!
 
 <strong>601.465/665 - Fall 2019</strong>
-* **Instructor:** [Kevin Duh](http://cs.jhu.edu/~kevinduh/)
-* **TA:** [Arya McCarthy](https://aryamccarthy.github.io) & [Suzanna Sia](https://suzyahyah.github.io/about/)
-* **CA:** Xiang Li (Lisa), Coleman Haley, Devin Hill, Craig Guo
+
 * **Class:** Shaffer 301, 11:00-11:50AM
+* **The Team:** 
+<div class='instructor'>
+	<a href="http://cs.jhu.edu/~kevinduh/" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/kevinduh.png">
+		</div>
+		<div>Kevin Duh</div><div>(Instructor)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://aryamccarthy.github.io" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/aryamccarthy.png">
+		</div>
+		<div>Arya McCarthy</div><div>(Head TA)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://suzyahyah.github.io/about/" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/suzannasia.png">
+		</div>
+		<div>Suzanna Sia</div><div>(TA)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/lisali.png">
+		</div>
+		<div>Xiang Lisa Li</div><div>(CA)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/colemanhaley.png">
+		</div>
+		<div>Coleman Haley</div><div>(CA)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/devinhill.png">
+		</div>
+		<div>Devin Hill</div><div>(CA)</div>
+	</a>
+</div>
+
+<div class='instructor'>
+	<a href="https://" target="_blank">
+		<div class="instructorphoto">
+			<img class='img-hover' src="assets/img/craigguo.png">
+		</div>
+		<div>Craig Guo</div><div>(CA)</div>
+	</a>
+</div>
+
+
 * **Office Hours:** @conference/lift area outside Hackerman 321
   * Arya (Mon, 1000-1100)
   * Craig (Tue, 1330-1430) 
@@ -16,8 +79,8 @@ layout: default
   * Suzanna (Thur, 1845-2000)
   * Devin (Fri, 1300-1400)
   * Coleman (Fri, 1600-1700) 
-
 * **Contact:** [on Piazza](https://piazza.com/class/jy3fhjnm7ep2i3)
+
 
 ### Annoucements
 * 10/26: Module 7 lecture slides updated; Exercises posted.
@@ -40,6 +103,8 @@ layout: default
 This course is an in-depth overview of techniques for processing human language. How should linguistic structure and meaning be represented? What algorithms can recover them from text? And crucially, how can we build statistical models to choose among the many legal answers? The course covers methods for trees (parsing and semantic interpretation), sequences (finite-state transduction such as morphology), and words (sense and phrase induction). There are a number of structured but challenging programming assignments. (Prerequisite: 600/601.226 data structures)
 
 Textbook: [Jurafsky & Martin, Speech and Language Processing, 2nd ed.](http://www.cs.colorado.edu/~martin/slp2.html) (P98.J87 2009 in Science Ref section on C-Level) 
+
+The course is organized into 11 thematic modules and 5 research talks. The thematic modules focus on core concepts and methods needed to become well-rounded in NLP: <i> Modeling Grammaticality, Language Models, Text Classification, Linguistics, Tree Parsing, Neural Networks, Sequence Tagging, Topic Models, Finite State Transducers, Semantics, Structured Prediction</i>. The research talks are guest lectures that are intended to give students a taste of the exciting world of NLP research. 
 
 [Syllabus](assets/Syllabus.pdf)
 

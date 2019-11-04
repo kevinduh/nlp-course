@@ -10,3 +10,18 @@ a.buttons2 {
 	padding: 2px 2px 2px 2px;
 	height: 30px;
 }
+
+.instructorphoto img {
+  width: 120px;
+  border-radius: 120px;
+  margin-bottom: 10px;
+}
+.instructor {
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+  margin-right: 20px;
+}
+.img-hover:hover {
+  opacity: 0.8;
+}
