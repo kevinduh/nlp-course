@@ -36,7 +36,7 @@ layout: default
 </div>
 
 <div class='instructor'>
-	<a href="https://" target="_blank">
+	<a href="https://xiangli1999.github.io" target="_blank">
 		<div class="instructorphoto">
 			<img class='img-hover' src="assets/img/lisali.png">
 		</div>
@@ -45,7 +45,7 @@ layout: default
 </div>
 
 <div class='instructor'>
-	<a href="https://" target="_blank">
+	<a href="https://www.linkedin.com/in/coleman-haley-617984105/" target="_blank">
 		<div class="instructorphoto">
 			<img class='img-hover' src="assets/img/colemanhaley.png">
 		</div>
@@ -63,7 +63,7 @@ layout: default
 </div>
 
 <div class='instructor'>
-	<a href="https://" target="_blank">
+	<a href="https://www.linkedin.com/in/craig-guo-06a9b1190/" target="_blank">
 		<div class="instructorphoto">
 			<img class='img-hover' src="assets/img/craigguo.png">
 		</div>
