@@ -83,6 +83,7 @@ layout: default
 
 
 ### Annoucements
+* 11/3: Module 9, 10 lecture slides added.
 * 10/26: Module 7 lecture slides updated; Exercises posted.
 * 10/22: Module 7 lecture slides posted.
 * 10/6: Homework 4 is posted.
