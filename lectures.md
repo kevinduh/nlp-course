@@ -11,7 +11,7 @@
 | 10/7, 10/9, 10/11 | 6: Neural Networks | MLP/RNN, Word Embeddings, Seq2Seq - Lecture by Arya McCarthy|
 | 10/14 | Research Talk | Guest Lecture by Pamela Shapiro: [Word Embeddings for Morphologically-rich languages](assets/lectures/guestlecture-pshapiro.pdf) | 
 | 10/16 | Midterm Exam| | |
-| 10/21 | Research Talk | Guest Lecture by Zach Wood-Doughty: NLP for Social Media |
+| 10/21 | Research Talk | Guest Lecture by Zach Wood-Doughty: [NLP for Social Media](assets/lectures/guestlecture-zach-wooddoughty.pdf) |
 | 10/23, 10/25, 10/28 | 7: Sequence Tagging | Hidden Markov Models, Viterbi algorithm, EM algorithm (slides: [1](assets/lectures/07-HMM.pdf); exercise: [1](assets/exercises/07-Exercise-HMM.pdf); Jason Eisner's [Excel practice](http://www.cs.jhu.edu/~jason/papers/#eisner-2002-tnlp): [1](assets/exercises/eisner-hmm.xls), [2](assets/exercises/eisner-hmm-viterbi.xls)) | J&M 3rd ed. <a href="https://web.stanford.edu/~jurafsky/slp3/A.pdf"> chapter</a> |
 | 10/30* | Research Talk | Guest Lecture by Dingquan Wang: [Synthetic Data made to order: the case for Dependency Parsing](assets/lectures/guestlecture-dingquanwang.pdf) | |
 | 11/1, 11/4 | 8: Topic Models | Probabilistic Latent Semantic Indexing, Latent Dirichlet Allocation, Topic Model Extensions (Polylingual, Dynamic, Author-recipient, Labelled, Gaussian) - Lecture by Suzanna Sia| Probabilistic Topic Models [ACM Review](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)|
