@@ -83,6 +83,7 @@ layout: default
 
 
 ### Annoucements
+* 11/5: Homework 5 deadline extended to 15 November, 11am
 * 11/3: Module 9, 10 lecture slides added.
 * 10/26: Module 7 lecture slides updated; Exercises posted.
 * 10/22: Module 7 lecture slides posted.
