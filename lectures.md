@@ -15,10 +15,10 @@
 | 10/23, 10/25, 10/28 | 7: Sequence Tagging | [Hidden Markov Models, Viterbi algorithm, EM algorithm](assets/lectures/07-HMM.pdf); ([HMM exercise](assets/exercises/07-Exercise-HMM.pdf); Jason Eisner's [Excel practice](http://www.cs.jhu.edu/~jason/papers/#eisner-2002-tnlp): [1](assets/exercises/eisner-hmm.xls), [2](assets/exercises/eisner-hmm-viterbi.xls) | J&M 3rd ed. <a href="https://web.stanford.edu/~jurafsky/slp3/A.pdf"> chapter</a> |
 | 10/30* | Research Talk | Guest Lecture by Dingquan Wang: [Synthetic Data made to order: the case for Dependency Parsing](assets/lectures/guestlecture-dingquanwang.pdf) | |
 | 11/1, 11/4 | 8: Topic Models | Probabilistic Latent Semantic Indexing, Latent Dirichlet Allocation, Topic Model Extensions (Polylingual, Dynamic, Author-recipient, Labelled, Gaussian) - Lecture by Suzanna Sia| Probabilistic Topic Models [ACM Review](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)|
-| 11/8 | Research Talk | Guest Lecture by Tom Lippincott: NLP for Digital Humanities | |
+| 11/8 | Research Talk | Guest Lecture by Tom Lippincott: [NLP for Digital Humanities](assets/lectures/guestlecture-tomlippincott.pdf) | |
 | 11/6, 11/11, 11/13 | 9: Finite State Transducers | [FSA, FST, Semirings, Finite-State Morphology](assets/lectures/09-FST.pdf) | J&M chapter 2, 3.1-3.7|
 | 11/15, 11/18, 11/20  | 10: Semantics | [Distributional Semantics, WordNet, Semantic Role Labeling](assets/lectures/10-Semantics.pdf) | J&M chapter 19.1-19.4, 20.1-20.3, 20.9| 
 | 11/22 | Research Talk | Guest Lecture by Sheng Zhang: Semantic Parsing | |
-| 12/2, 12/4 | 11: Structured Prediction | Discriminative HMM training, CRF| |
+| 12/2, 12/4 | 11: Structured Prediction | [Global vs. Local models, Discriminative vs. Generative, CRF, Structured Perceptron/SVM](assets/lectures/11-StructuredPrediction.pdf) | |
 | 12/6 | Review | |
 
