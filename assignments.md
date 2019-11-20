@@ -6,4 +6,4 @@
 * *Midterm: held 16th October*
 * HW4: [Parsing](assets/assignments/assignment4.pdf), due 21st October 11am
 * HW5: [HMM](assets/assignments/assignment5.pdf), due 15th November 11am
-* HW6: FST, due TBD
+* HW6: [FST](assets/assignments/assignment6.pdf), due 03 December 11:59pm
