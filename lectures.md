@@ -20,5 +20,5 @@
 | 11/15, 11/18, 11/20  | 10: Semantics | [Distributional Semantics, WordNet, Semantic Role Labeling](assets/lectures/10-Semantics.pdf) | J&M chapter 19.1-19.4, 20.1-20.3, 20.9| 
 | 11/22 | Research Talk | Guest Lecture by Sheng Zhang: [Broad Coverage Semantic Parsing](assets/lectures/guestlecture-shengzhang.pdf) | |
 | 12/2, 12/4 | 11: Structured Prediction | [Global vs. Local models, Discriminative vs. Generative, CRF, Structured Perceptron/SVM](assets/lectures/11-StructuredPrediction.pdf) | |
-| 12/6 | Review | |
+| 12/6 | [Review](assets/lectures/NLP-Review.pdf) | |
 

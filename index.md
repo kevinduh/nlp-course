@@ -83,6 +83,7 @@ layout: default
 
 
 ### Annoucements
+* 11/3: Posted review slides (for final exam)
 * 11/8: Posted guest lecture slides. Posted Module 11 slides. 
 * 11/5: Homework 5 deadline extended to 15 November, 11am
 * 11/3: Module 9, 10 lecture slides added.
