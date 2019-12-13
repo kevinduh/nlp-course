@@ -83,6 +83,7 @@ layout: default
 
 
 ### Annoucements
+* 12/12: Reminder: Final exam is scheduled for Thursday, December 19 at Shaffer 301, from 9:15 AM to 10:30 AM (i.e. the exam will be limited to 1 hour 15 minutes, not 3 hours).
 * 12/3: Posted review slides (for final exam)
 * 11/20: Homework 6 is posted.
 * 11/8: Posted guest lecture slides. Posted Module 11 slides. 
